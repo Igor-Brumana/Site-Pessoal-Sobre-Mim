@@ -1,7 +1,7 @@
 body{
 color:black;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+background-color: rgb(27, 26, 41);
 }
 
 main{
@@ -17,6 +17,7 @@ padding: 20px;
 
 #titulo{
 font-size:45px;
+padding-bottom: 7px;
 }
 
 ul,ol{
@@ -36,8 +37,8 @@ h5{
     font-size: 19px;
 }
 header h1{
-background-color: rgb(39, 41, 116);
-color:aliceblue;
+background-color: rgb(236, 246, 255);
+color:rgb(17, 0, 255);
 text-align: center;
 
 }
