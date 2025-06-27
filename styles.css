@@ -1,4 +1,4 @@
-body{
+main{
 background-color: rgb(206, 228, 228);
 color:black;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -9,6 +9,10 @@ margin-left: auto;
 margin-right: auto;
 text-align: center;
 padding: 20px;
+}
+
+#titulo{
+font-size:45px;
 }
 
 ul,ol{
@@ -38,8 +42,8 @@ img{
 width: 30%;
 height: auto;
 }
-.links{
-word-spacing: 75px;
-color:black;
+a{
+padding: 45px;
+color:rgb(147, 32, 170);
 font-size: 19px;
 }
