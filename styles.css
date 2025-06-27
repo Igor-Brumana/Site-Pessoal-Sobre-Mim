@@ -1,0 +1,45 @@
+body{
+background-color: rgb(206, 228, 228);
+color:black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+max-width: 900px;
+width: 85%;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+padding: 20px;
+}
+
+ul,ol{
+text-align: start;
+font-size: 15px;
+}
+
+
+h2{
+font-size: 25px;
+}
+h3{
+    font-size: 20;
+}
+
+h5{
+    font-size: 19px;
+}
+header h1{
+background-color: rgb(39, 41, 116);
+color:aliceblue;
+text-align: center;
+
+}
+
+img{
+width: 30%;
+height: auto;
+}
+.links{
+word-spacing: 75px;
+color:black;
+font-size: 19px;
+}
