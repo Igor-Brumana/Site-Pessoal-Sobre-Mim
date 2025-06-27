@@ -1,7 +1,11 @@
-main{
-background-color: rgb(206, 228, 228);
+body{
 color:black;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+main{
+background-color: rgb(206, 228, 228);
 max-width: 900px;
 width: 85%;
 height: auto;
@@ -46,4 +50,11 @@ a{
 padding: 45px;
 color:rgb(147, 32, 170);
 font-size: 19px;
+}
+
+.hobbies{
+color:rgb(75, 19, 19);
+}
+.conquistas_objetivos{
+color:rgb(155, 77, 22);
 }
